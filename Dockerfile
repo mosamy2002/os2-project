@@ -2,7 +2,7 @@ from openjdk
 
 
 
-WORKDIR /devolper
+WORKDIR /application
 
 
 
